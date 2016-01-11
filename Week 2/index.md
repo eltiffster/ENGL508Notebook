@@ -13,7 +13,7 @@ Manifesto(s?) in [BLAST, Review of the Great English Vortex, Number 1](http://li
 *Britain a major industrial power, esp. British Navy (blessed in the manifesto)
 
 **Politics**
-*Sets itself up as a violent break from the past ("BLAST", after all); mentions/disdains/blasts past movements like Aestheticism ("The Britanic Aesthete"(?), "Rousseauism")
++Sets itself up as a violent break from the past ("BLAST", after all); mentions/disdains/blasts past movements like Aestheticism ("The Britanic Aesthete"(?), "Rousseauism")
 *Violence as somehow purifying or cleansing: language of disease ("sins and infections" (11); a "lump" that bursts (32))
 *Same in the figure of the hairdresser attacking Mother Nature, trimming hair into "_clean_ arched shapes and angular plots" (emphasis mine)
 *In that way, seems to be bringing order to disorder, but also paradoxically the form of the piece is disordered
