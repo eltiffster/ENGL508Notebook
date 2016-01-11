@@ -13,15 +13,15 @@ Take notes on your general impressions of at least five -isms. Please attend to 
 Manifesto(s?) in [BLAST, Review of the Great English Vortex, Number 1](http://library.brown.edu/pdfs/1143209523824858.pdf), Wyndham Lewis
 
 ####History
-+ As a movement, was very short-lived: started in 1914 and did not outlast the war
-+ Wyndham Lewis (largely credited as the movement's founder, though he did not coin the term(that was Pound)) tried to revive it as "Group X" but that didn't fly
+* As a movement, was very short-lived: started in 1914 and did not outlast the war
+* Wyndham Lewis (largely credited as the movement's founder, though he did not coin the term(that was Pound)) tried to revive it as "Group X" but that didn't fly
 * Perhaps its violence after the war was off-putting?
 * Supposedly, according to [this](http://vorticism.co.uk/vpages/introduction/), were the first to popularize the magazine-form manifesto
 * Same source points to democratization of Art as a driving force for its popularity (was it though?)
 * Britain a major industrial power, esp. British Navy (blessed in the manifesto)
 
 ####Politics
-+ Sets itself up as a violent break from the past ("BLAST", after all); mentions/disdains/blasts past movements like Aestheticism ("The Britanic Aesthete"(?), "Rousseauism")
+* Sets itself up as a violent break from the past ("BLAST", after all); mentions/disdains/blasts past movements like Aestheticism ("The Britanic Aesthete"(?), "Rousseauism")
 * Violence as somehow purifying or cleansing: language of disease ("sins and infections" (11); a "lump" that bursts (32))
 * Same in the figure of the hairdresser attacking Mother Nature, trimming hair into "_clean_ arched shapes and angular plots" (emphasis mine)
 * In that way, seems to be bringing order to disorder, but also paradoxically the form of the piece is disordered
@@ -71,14 +71,14 @@ Major Proponents:
 * As a nationalist project: wanting to assert tradition (somewhat) independent of foreign (esp. American) influence, "an -ism that rivalled Western avant-garde" (??)
 * Metabolists may also have been anxious about the survival of their culture, both in reference to the war's destruction as well as foreign influences on reconstruction
 * In response to a fear of totalitarian regimes (both that fell/were emerging): emphasized flexibility, organic growth, modularity over/against political rigidity and restraint
-..* Is anything ever really "organic" rather than socially determined? Significance of modularity?
-..* as part of "organic growth", old parts/capsules were supposed to be replaced by new ones
-..* in response to (Western) criticism of disposability, Kurokawa emphasizes "replacement" or regeneration common in Eastern philosophies (31-2)
+  * Is anything ever really "organic" rather than socially determined? Significance of modularity?
+  * as part of "organic growth", old parts/capsules were supposed to be replaced by new ones
+  * in response to (Western) criticism of disposability, Kurokawa emphasizes "replacement" or regeneration common in Eastern philosophies (31-2)
 * Is spiritual, draws upon (Shinto?) Buddhist ideas of impermanence, regeneration
-..* as a (materially-speaking) "new" Japan built over top of the old one while essentially keeping the same spirit
-..* emphasis on interconnectedness
+  * as a (materially-speaking) "new" Japan built over top of the old one while essentially keeping the same spirit
+  * emphasis on interconnectedness
 * Perhaps despite its creators' intentions, and especially as its influence spread beyond Japan, metabolism was criticized for encouraging/enabling the Western capitalist/consumerist attitude it tried to set aside
-..* accused of encouraging "overworked, isolated male drone" mentality (296)
+  * accused of encouraging "overworked, isolated male drone" mentality (296)
 
 ![Nakagin Interior](images/metabolism3.jpg)
 ![Nakagin Exterior](images/metabolism2.jpg)
@@ -87,10 +87,10 @@ Major Proponents:
 * Supposedly rejecting visual references to (recent) past Japanese architectural traditions because they are supposedly "unpleasant[ly] naturalist—even militaristic" (289); source is vague about how they actually did this though
 * use of curves more organic
 * modular capsules
-..* "the ideal contemplative dwelling"—in a Buddhist way? (294)
-..* assertion of individuality (within the collective?), owner can restyle the capsule however she likes
-..* influenced by continuous threat of nuclear annihilation, a protective shell like a bunker (remains untouched inside while the outside has gone to shit)
-..* as "cyborg architecture" or hybrid of human/machine(?): the machine (capsule) and life rely on each other (25)
+  * "the ideal contemplative dwelling"—in a Buddhist way? (294)
+  * assertion of individuality (within the collective?), owner can restyle the capsule however she likes
+  * influenced by continuous threat of nuclear annihilation, a protective shell like a bunker (remains untouched inside while the outside has gone to shit)
+  * as "cyborg architecture" or hybrid of human/machine(?): the machine (capsule) and life rely on each other (25)
 
 **Sources/Further Reading**
 Goldhagen, Sarah Williams, and Réjean Legault, eds. _Anxious Modernisms: Experimentation in Postwar Architectural Culture_. Cambridge, Mass.: MIT Press, 2000. Print.  
@@ -113,7 +113,7 @@ Kurokawa, Kishō. _Metabolism in Architecture_. London: Studio Vista, 1977. Prin
 * Appeal to evolution, biology smacks of eugenics
 * Always a "he"
 * Humans as highly exceptional when compared with other biological organisms...because of reasons.
-..*As if evolution were a teleological process with a pre-determined plan for humanity
+  *As if evolution were a teleological process with a pre-determined plan for humanity
 
 ####Aesthetics
 * language of inevitability, that this is the way things "naturally happen"
@@ -141,13 +141,13 @@ Huxley, Julian. New Bottles for New Wine, Essays. London: Chatto & Windus, 1957.
 * Though it purported to be democratizing ("Good Taste for All!"), the things the Arts & Crafts made were too expensive (_because_ of the craftsmanship) for anyone but the upper and upper-middle classes to buy
 *Was not (perhaps could never hope to be) wholly independent of industrial capital: often relied on patronage/investment from upper-MC/factory owners for start-up costs or to produce their works
 * (sometimes in theory, though not always in practice) privileged the handmade over machine-made
-..*for some Arts and Crafts proponents, it was less against machines in general and more about the alienation/labour conditions that arose around them
+  *for some Arts and Crafts proponents, it was less against machines in general and more about the alienation/labour conditions that arose around them
 * In our present day, is our own fascination with the Arts and Crafts movement a nostalgia for pre-digital times? Funny, because shows that even nostalgia is never new (pre-industrial or pre-digital)
 * Arts and Crafts, as a movement, spread not only to other parts of the Western world (Ireland, America, Europe, etc) but also to India, China, etc. (far less talked about for obvi reasons), so might think of "which Arts and Crafts" as much broader than is usually talked about
 * Gender:
-..1. Many women worked in the A&C movement, though there was a separation/divison of labour/craftsmanship within A&C: women exclusively did embroidery, lace-making, etc. while men did all the silversmithing, glass-making, etc.
-..* Women were not allowed in the Art Workers Guild >:(, but created their own Women's Guild of Arts, though Callen argues that it came too late (1907) in the Movement to have much of an impact within the broader A&C
-..* In this way, reinforces traditional divisions of labour rather than being progressive, but the "rising profile of female craft industries" cannot be separated from proactive efforts/campaigning by women for increased access to political, educational, and labour institutions
+  * Many women worked in the A&C movement, though there was a separation/divison of labour/craftsmanship within A&C: women exclusively did embroidery, lace-making, etc. while men did all the silversmithing, glass-making, etc.
+  * Women were not allowed in the Art Workers Guild >:(, but created their own Women's Guild of Arts, though Callen argues that it came too late (1907) in the Movement to have much of an impact within the broader A&C
+  * In this way, reinforces traditional divisions of labour rather than being progressive, but the "rising profile of female craft industries" cannot be separated from proactive efforts/campaigning by women for increased access to political, educational, and labour institutions
 
 ####Aesthetics
 * Emphasis on "nature", both as a thematic aspect as well as in the sense of "natural" or "organic" materials and appearances (e.g. not painting over/otherwise disguising one material as another)
@@ -175,17 +175,17 @@ Working definition (admittedly fuzzy): the practice of self-directed learning, o
 
 ####Politics
 * On the one hand, seems to be explicitly political or subversive if you take the long history of class struggle, women and people of colour autodidacts who circumvent formal structures of education made to exclude them
-..* Can even feed back into said professional structures, as in Ladies Learning to Code
+  * Can even feed back into said professional structures, as in Ladies Learning to Code
 * On the other hand, seems to reinforce institutional privileges that already exist:
-..* relies heavily on leisure time for "added labour" (see _Self-Help Inc._), acces to resources/knowledge to "teach yourself," environments that encourage and foster learning
-..* at times, can be rather individualistic, essentialist, rely on narratives of the singular genius
-..* How subversive or radical is it? Still succeeding within the same capitalist system or do you change the system from within?
+  * relies heavily on leisure time for "added labour" (see _Self-Help Inc._), acces to resources/knowledge to "teach yourself," environments that encourage and foster learning
+  * at times, can be rather individualistic, essentialist, rely on narratives of the singular genius
+  * How subversive or radical is it? Still succeeding within the same capitalist system or do you change the system from within?
 
 ####Aesthetics
 * Not too sure about this one, especially since I haven't chosen a text yet
 * For most self-help texts, common move is to reference a parable and then extract/expound upon some nugget of wisdom
 * explicitly didactic (expected to be), often giving instructions in imperative form and repeating them throughout, a "catchy" phrase
-..* would assume a certain kind of audience? Class, gender, race, etc.?
+  * would assume a certain kind of audience? Class, gender, race, etc.?
 * Considering _Lifemanship_, which is a parody of self-help books
 
 ####Sources/Further Reading
