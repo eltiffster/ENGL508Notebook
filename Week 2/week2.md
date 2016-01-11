@@ -50,8 +50,6 @@ Yiannakopoulou, Konstantina. “How BLAST Magazine Has Changed Literature.” _T
 
 ##_Shintinchaisa_(新陳代謝), or Metabolism (1960-1970s)
 
-Major Proponents:
-
 ![Marine City](images/metabolism1.jpg)
 
 * _Shintinchaisa_(新陳代謝) means "metabolism" in a scientific/biological sense, but can also mean "renewal or regeneration...closely related to the Buddhist concepts of transmogrification and reincarnation" (Wendelken 287)
