@@ -1,6 +1,10 @@
 #Week 2: Survey Some -Isms
 
-**Notebook Prompt:** Between the 1870s and 1970s, what are some notable -isms operating across art, culture, and politics? How were these -isms designed?
+####Notebook Prompt:
+
+Between the 1870s and 1970s, what are some notable -isms operating across art, culture, and politics? How were these -isms designed?
+
+Take notes on your general impressions of at least five -isms. Please attend to the politics and aesthetics of each -ism, with notes on the historical particulars of when each occurred and why.
 
 ##Vorticism (1914-1917ish)
 
@@ -79,7 +83,7 @@ Major Proponents:
 ![Nakagin Interior](images/metabolism3.jpg)
 ![Nakagin Exterior](images/metabolism2.jpg)
 
-**Aesthetics**
+####Aesthetics
 * Supposedly rejecting visual references to (recent) past Japanese architectural traditions because they are supposedly "unpleasant[ly] naturalist—even militaristic" (289); source is vague about how they actually did this though
 * use of curves more organic
 * modular capsules
@@ -100,22 +104,22 @@ Kurokawa, Kishō. _Metabolism in Architecture_. London: Studio Vista, 1977. Prin
 ["Transhumanism", Julian Huxley (from _New Bottles for New Wine_), 1957](http://www.transhumanism.org/index.php/WTA/more/huxley)
 * Note "Transhumanism" in its first incarnation from Huxley (Aldous Huxley's brother!); has since become very diverse movement
 
-**History**
+####History
 * [Discovery of DNA's molecular structure](https://en.wikipedia.org/wiki/DNA) by Watson and Crick in 1953, becomes conceivable that we could, eventually, alter humans on a molecular level
 
-**Politics**
+####Politics
 * Technological determinism: technology does not exist in a vacuum outside of social determination, nor will it automatically result in better quality of life for all of humanity
 * Appeal to evolution, biology smacks of eugenics
 * Always a "he"
 * Humans as highly exceptional when compared with other biological organisms...because of reasons.
 ..*As if evolution were a teleological process with a pre-determined plan for humanity
 
-**Aesthetics**
+####Aesthetics
 * language of inevitability, that this is the way things "naturally happen"
 * "the universe becoming conscious of itself" (as in humanity becoming aware of itself? Or the universe having agency beyond humanity? As in the natural world will move on with or without humans so they better keep up?)
 * language of "discovery" and progress
 
-**Sources/Further Reading**
+####Sources/Further Reading
 Hays, Sean A. "Transhumanism." Encyclopedia of Nanoscience and Society. Ed. David H. Guston. Thousand Oaks, CA: SAGE Publications, Inc., 2010. 770-71. SAGE knowledge. Web. 10 Jan. 2016.
 Huxley, Julian. New Bottles for New Wine, Essays. London: Chatto & Windus, 1957. Print.
 “Transhumanism.” Wikipedia, the free encyclopedia 7 Jan. 2016. Wikipedia. Web. 11 Jan. 2016.
@@ -124,16 +128,14 @@ Huxley, Julian. New Bottles for New Wine, Essays. London: Chatto & Windus, 1957.
 
 ![Arts and Crafts wallpaper](images/artsAndCrafts2.jpg)
 
-Major Proponents: William Morris, Augustus Pugin, John Ruskin, Elizabeth Wardle
-
-**History**
+####History
 * Britain growing industrial power, child labour, poor working conditions, other Dickensian business, national pride etc. etc.
 * Wealth inequalities persisted, but weren't quite so stratified as they used to be (rising middle class, "white collar" jobs)
 * Following Marx, saw industrial working conditions of the time as exploitative, dehumanizing and wanted to set itself apart from that
 * Influence of [John Ruskin](https://en.wikipedia.org/wiki/John_Ruskin) (esp. _Modern Painters_): craftsmen/labourers should be involved in all aspects/stages of production, from design to execution, promoted "enobling work"
 * Separation of the spheres (idea also largely attributed to Ruskin) & division of labour: women = hearth & home, men = public sphere; but also growing suffrage & women's rights movements at turn of century
 
-**Politics**
+####Politics
 * Emphasized the rights of the producer/worker, community practice (e.g. [Art Workers Guild](https://en.wikipedia.org/wiki/Art_Workers_Guild), informal and, eventually, more formal education)
 * Though it purported to be democratizing ("Good Taste for All!"), the things the Arts & Crafts made were too expensive (_because_ of the craftsmanship) for anyone but the upper and upper-middle classes to buy
 *Was not (perhaps could never hope to be) wholly independent of industrial capital: often relied on patronage/investment from upper-MC/factory owners for start-up costs or to produce their works
@@ -146,11 +148,11 @@ Major Proponents: William Morris, Augustus Pugin, John Ruskin, Elizabeth Wardle
 ..* Women were not allowed in the Art Workers Guild >:(, but created their own Women's Guild of Arts, though Callen argues that it came too late (1907) in the Movement to have much of an impact within the broader A&C
 ..* In this way, reinforces traditional divisions of labour rather than being progressive, but the "rising profile of female craft industries" cannot be separated from proactive efforts/campaigning by women for increased access to political, educational, and labour institutions
 
-**Aesthetics**
+####Aesthetics
 * Emphasis on "nature", both as a thematic aspect as well as in the sense of "natural" or "organic" materials and appearances (e.g. not painting over/otherwise disguising one material as another)
 * Medievalist aesthetic might be a sort of nostalgia over the pre-industrial
 
-**Sources/Further Reading**
+####Sources/Further Reading
 Blakesley, Rosalind P. The Arts and Crafts Movement. London ; New York: Phaidon, 2006. Print.
 Callen, Anthea. “Sexual Division of Labor in the Arts and Crafts Movement.” Woman’s Art Journal 5.2 (1984): 1–6. JSTOR. Web.
 Coomaraswamy, Ananda Kentish, and Rama P. Coomaraswamy. The Essential Ananda K. Coomaraswamy. Bloomington, IN: World Wisdom, 2004. Print. The Perennial Philosophy Series.
@@ -158,19 +160,19 @@ Thomas, Zoë. “At Home with the Women’s Guild of Arts: Gender and Profession
 
 ##Autodidact(ic)ism, or Self-Help (from forever ago until now)
 
-![Vernon Lee](images/autodidactism1)
-![Sophie Germain](images/autodidactism2)
-![Julia Mary Cartwright Ady](images/autodidactism3)
+![Vernon Lee](images/autodidactism1.jpg)
+![Sophie Germain](images/autodidactism2.jpeg)
+![Julia Mary Cartwright Ady](images/autodidactism3.jpg)
 
 Working definition (admittedly fuzzy): the practice of self-directed learning, or teaching yourself (usually a skill) outside of formal institutions
 
-**History**
+####History
 * has been happening even since ancient times, often with an explicitly spiritual or theological purpose and extends beyond Western tradition, e.g. Islamic philosophy in the Middle East (see Ben-Zaken)
 * 19th-century: emphasis on self-improvement or refining "taste" (a la Smiles' [_Self-Help_](https://en.wikipedia.org/wiki/Samuel_Smiles#Self-Help) or _Great Expectations_) the middle-class, mutual improvement societies, women scholars, education & slavery
 * Early to mid 20th-century: "rags to riches," the Horatio Alger myth
 * In more modern times: explosion in mid-century of self-help books, glorification of the "self-made" innovator or entrepeneur (middle-class white male, think Bill Gates or Steve Jobs), "From Zero to Maker"
 
-**Politics**
+####Politics
 * On the one hand, seems to be explicitly political or subversive if you take the long history of class struggle, women and people of colour autodidacts who circumvent formal structures of education made to exclude them
 ..* Can even feed back into said professional structures, as in Ladies Learning to Code
 * On the other hand, seems to reinforce institutional privileges that already exist:
@@ -178,14 +180,14 @@ Working definition (admittedly fuzzy): the practice of self-directed learning, o
 ..* at times, can be rather individualistic, essentialist, rely on narratives of the singular genius
 ..* How subversive or radical is it? Still succeeding within the same capitalist system or do you change the system from within?
 
-**Aesthetics**
+####Aesthetics
 * Not too sure about this one, especially since I haven't chosen a text yet
 * For most self-help texts, common move is to reference a parable and then extract/expound upon some nugget of wisdom
 * explicitly didactic (expected to be), often giving instructions in imperative form and repeating them throughout, a "catchy" phrase
 ..* would assume a certain kind of audience? Class, gender, race, etc.?
 * Considering _Lifemanship_, which is a parody of self-help books
 
-**Sources/Further Reading**
+####Sources/Further Reading
 “Autodidacticism.” Wikipedia, the free encyclopedia 6 Jan. 2016. Wikipedia. Web. 11 Jan. 2016.
 Dalton, Harlon L. “Horatio Alger.” Racial Healing: Confronting the Fear Between Blacks and Whites. N.p. Web. 9 Jan. 2016.
 Fisher, Pamela, and Roy Fisher. “The ‘Autodidact’, the Pursuit of Subversive Knowledge and the Politics of Change.” Discourse: Studies in the Cultural Politics of Education 28.4 (2007): 515–529. www-tandfonline-com.ezproxy.library.uvic.ca (Atypon). Web.
