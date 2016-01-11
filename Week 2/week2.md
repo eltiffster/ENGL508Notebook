@@ -163,7 +163,7 @@ Thomas, Zoë. “At Home with the Women’s Guild of Arts: Gender and Profession
 
 ![Vernon Lee](images/autodidactism1.jpg)
 ![Sophie Germain](images/autodidactism2.jpeg)
-![Julia Mary Cartwright Ady](images/autodidactism3.jpg)
+![Julia Mary Cartwright Ady](images/autodidactism3.jpg =200)
 
 Working definition (admittedly fuzzy): the practice of self-directed learning, or teaching yourself (usually a skill) outside of formal institutions
 
