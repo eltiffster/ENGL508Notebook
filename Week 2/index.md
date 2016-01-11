@@ -1,10 +1,10 @@
 ##Vorticism (1914-1917ish)
 
-![Blast Magazine Cover July 1915](..images/vorticism1.jpg)
+![Blast Magazine Cover July 1915](images/vorticism1.jpg)
 
 Manifesto(s?) in [BLAST, Review of the Great English Vortex, Number 1](http://library.brown.edu/pdfs/1143209523824858.pdf), Wyndham Lewis
 
-**History**
+####History
 *As a movement, was very short-lived: started in 1914 and did not outlast the war
 *Wyndham Lewis (largely credited as the movement's founder, though he did not coin the term(that was Pound)) tried to revive it as "Group X" but that didn't fly
 *Perhaps its violence after the war was off-putting?
@@ -12,7 +12,7 @@ Manifesto(s?) in [BLAST, Review of the Great English Vortex, Number 1](http://li
 *Same source points to democratization of Art as a driving force for its popularity (was it though?)
 *Britain a major industrial power, esp. British Navy (blessed in the manifesto)
 
-**Politics**
+####Politics
 +Sets itself up as a violent break from the past ("BLAST", after all); mentions/disdains/blasts past movements like Aestheticism ("The Britanic Aesthete"(?), "Rousseauism")
 *Violence as somehow purifying or cleansing: language of disease ("sins and infections" (11); a "lump" that bursts (32))
 *Same in the figure of the hairdresser attacking Mother Nature, trimming hair into "_clean_ arched shapes and angular plots" (emphasis mine)
@@ -23,9 +23,9 @@ Manifesto(s?) in [BLAST, Review of the Great English Vortex, Number 1](http://li
 *Heavy nationalist bent: England vs. France, the pride of the English Navy
 *Rejects sentimentality, excess (e.g. the excess of aestheticism)
 
-![Blast Magazine example](..images/vorticism2.jpg)
+![Blast Magazine example](images/vorticism2.jpg)
 
-**Aesthetics**
+####Aesthetics
 *Typeface: [Grotesque No. 9](http://www.typorn.org/article/how-blast-magazine-has-changed-literature) by Blake Stephenson (British type designer)
 *Significance of an ordered/hierarchical list?
 *What to make of the symbol? Is it supposed to be a top? Upside-down top?
@@ -33,7 +33,7 @@ Manifesto(s?) in [BLAST, Review of the Great English Vortex, Number 1](http://li
 *Is the straightness of it a response to the diagonal lines of Futurism?
 *In some ways, seems very orderly (hierarchical, ordered list, straight forceful lines); but in others, seems chaotic (e.g. random lists of images/symbols/institutions, the 3 on one page isn't centered like the rest)
 
-**Sources/Further Reading**
+####Sources/Further Reading
 Baldick, Chris. “Vorticism.” _The Oxford Dictionary of Literary Terms (4 ed.)_. 2015. Web. 8 Jan. 2016.
 Chilvers, Ian, and John Glaves-Smith. “Vorticism - Oxford Reference.” A Dictionary of Modern and Contemporary Art (2 ed.) 2009. Web. 8 Jan. 2016.
 Lewis, Wyndham, ed. “Blast.” Blast: Review of the Great English Vortex 1 (1914). _The Modernist Journals Project_. Web. <http://library.brown.edu/pdfs/1143209523824858.pdf>
@@ -44,22 +44,22 @@ Yiannakopoulou, Konstantina. “How BLAST Magazine Has Changed Literature.” _T
 
 Major Proponents:
 
-![Marine City](..images/metabolism1.jpg)
+![Marine City](images/metabolism1.jpg)
 
 *_Shintinchaisa_(新陳代謝) means "metabolism" in a scientific/biological sense, but can also mean "renewal or regeneration...closely related to the Buddhist concepts of transmogrification and reincarnation" (Wendelken 287)
 *Architectural movement, although Metabolism's proponents did write extensively on it
 *Key Text would be _Metabolism 1960—Proposals for a New Urbanism_ (Can't find an original copy, only excerpts in various secondary sources)
 *Prepared for the 1960 Tokyo World Design Conference
 
-**History**
+####History
 *Post-WWII era: reaction to devastation after the war (fire-bombing in Tokyo, twin bombs over Hiroshima and Nagasake) and the constant threat of nuclear warfare
 *Emphasis on rebuilding, recovering after the war: metabolists saw themselves as designers of prostheses (293) creating "cyborg architecture" (?25)
 *Scientific advances in biology (e.g. discovery of DNA)
 *After the war, foreign occupation and reconstruction led Japanese architects to want to assert their own identity/aesthetic
 
-![Tokyo after bombing](..images/metabolism4.jpg)
+![Tokyo after bombing](images/metabolism4.jpg)
 
-**Politics**
+####Politics
 *As a nationalist project: wanting to assert tradition (somewhat) independent of foreign (esp. American) influence, "an -ism that rivalled Western avant-garde" (??)
 *Metabolists may also have been anxious about the survival of their culture, both in reference to the war's destruction as well as foreign influences on reconstruction
 *In response to a fear of totalitarian regimes (both that fell/were emerging): emphasized flexibility, organic growth, modularity over/against political rigidity and restraint
@@ -72,8 +72,8 @@ Major Proponents:
 *Perhaps despite its creators' intentions, and especially as its influence spread beyond Japan, metabolism was criticized for encouraging/enabling the Western capitalist/consumerist attitude it tried to set aside
 ..*accused of encouraging "overworked, isolated male drone" mentality (296)
 
-![Nakagin Interior](..images/metabolism3.jpg)
-![Nakagin Exterior](..images/metabolism2.jpg)
+![Nakagin Interior](images/metabolism3.jpg)
+![Nakagin Exterior](images/metabolism2.jpg)
 
 **Aesthetics**
 *Supposedly rejecting visual references to (recent) past Japanese architectural traditions because they are supposedly "unpleasant[ly] naturalist—even militaristic" (289); source is vague about how they actually did this though
@@ -91,7 +91,7 @@ Kurokawa, Kishō. _Metabolism in Architecture_. London: Studio Vista, 1977. Prin
 
 ##Transhumanism (1957)
 
-![Transhumanism](..images/transhumanism1.png)
+![Transhumanism](images/transhumanism1.png)
 
 ["Transhumanism", Julian Huxley (from _New Bottles for New Wine_), 1957](http://www.transhumanism.org/index.php/WTA/more/huxley)
 *Note "Transhumanism" in its first incarnation from Huxley (Aldous Huxley's brother!); has since become very diverse movement
@@ -118,7 +118,7 @@ Huxley, Julian. New Bottles for New Wine, Essays. London: Chatto & Windus, 1957.
 
 ##Arts and Crafts Movement (ca. 1880-1910)
 
-![Arts and Crafts wallpaper](..images/artsAndCrafts2.jpg)
+![Arts and Crafts wallpaper](images/artsAndCrafts2.jpg)
 
 Major Proponents: William Morris, Augustus Pugin, John Ruskin, Elizabeth Wardle
 
@@ -154,9 +154,9 @@ Thomas, Zoë. “At Home with the Women’s Guild of Arts: Gender and Profession
 
 ##Autodidact(ic)ism, or Self-Help (from forever ago until now)
 
-![Vernon Lee](..images/autodidactism1)
-![Sophie Germain](..images/autodidactism2)
-![Julia Mary Cartwright Ady](..images/autodidactism3)
+![Vernon Lee](images/autodidactism1)
+![Sophie Germain](images/autodidactism2)
+![Julia Mary Cartwright Ady](images/autodidactism3)
 
 Working definition (admittedly fuzzy): the practice of self-directed learning, or teaching yourself (usually a skill) outside of formal institutions
 
