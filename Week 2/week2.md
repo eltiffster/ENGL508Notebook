@@ -27,7 +27,7 @@ Manifesto(s?) in [BLAST, Review of the Great English Vortex, Number 1](http://li
 * Heavy nationalist bent: England vs. France, the pride of the English Navy
 * Rejects sentimentality, excess (e.g. the excess of aestheticism)
 
-![Blast Magazine example](images/vorticism2.jpg)
+![Blast Magazine example](images/Vorticism2.jpg)
 
 ####Aesthetics
 * Typeface: [Grotesque No. 9](http://www.typorn.org/article/how-blast-magazine-has-changed-literature) by Blake Stephenson (British type designer)
