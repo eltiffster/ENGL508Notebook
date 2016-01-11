@@ -145,7 +145,7 @@ Huxley, Julian. New Bottles for New Wine, Essays. London: Chatto & Windus, 1957.
 * In our present day, is our own fascination with the Arts and Crafts movement a nostalgia for pre-digital times? Funny, because shows that even nostalgia is never new (pre-industrial or pre-digital)
 * Arts and Crafts, as a movement, spread not only to other parts of the Western world (Ireland, America, Europe, etc) but also to India, China, etc. (far less talked about for obvi reasons), so might think of "which Arts and Crafts" as much broader than is usually talked about
 * Gender:
-..* Many women worked in the A&C movement, though there was a separation/divison of labour/craftsmanship within A&C: women exclusively did embroidery, lace-making, etc. while men did all the silversmithing, glass-making, etc.
+..1. Many women worked in the A&C movement, though there was a separation/divison of labour/craftsmanship within A&C: women exclusively did embroidery, lace-making, etc. while men did all the silversmithing, glass-making, etc.
 ..* Women were not allowed in the Art Workers Guild >:(, but created their own Women's Guild of Arts, though Callen argues that it came too late (1907) in the Movement to have much of an impact within the broader A&C
 ..* In this way, reinforces traditional divisions of labour rather than being progressive, but the "rising profile of female craft industries" cannot be separated from proactive efforts/campaigning by women for increased access to political, educational, and labour institutions
 
