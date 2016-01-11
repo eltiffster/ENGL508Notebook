@@ -42,11 +42,11 @@ Manifesto(s?) in [BLAST, Review of the Great English Vortex, Number 1](http://li
 * In some ways, seems very orderly (hierarchical, ordered list, straight forceful lines); but in others, seems chaotic (e.g. random lists of images/symbols/institutions, the 3 on one page isn't centered like the rest)
 
 ####Sources/Further Reading
-Baldick, Chris. “Vorticism.” _The Oxford Dictionary of Literary Terms (4 ed.)_. 2015. Web. 8 Jan. 2016.
-Chilvers, Ian, and John Glaves-Smith. “Vorticism - Oxford Reference.” A Dictionary of Modern and Contemporary Art (2 ed.) 2009. Web. 8 Jan. 2016.
-Lewis, Wyndham, ed. “Blast.” Blast: Review of the Great English Vortex 1 (1914). _The Modernist Journals Project_. Web. <http://library.brown.edu/pdfs/1143209523824858.pdf>
-VortexMaster. “Introduction.” Vorticism.co.uk. N.p., n.d. Web. 6 Jan. 2016. <http://vorticism.co.uk/vpages/introduction/>
-Yiannakopoulou, Konstantina. “How BLAST Magazine Has Changed Literature.” _Typorn.org_. N.p., 1 Sept. 2014. Web. 6 Jan. 2016. <http://vorticism.co.uk/vpages/introduction/>
+Baldick, Chris. “Vorticism.” _The Oxford Dictionary of Literary Terms (4 ed.)_. 2015. Web. 8 Jan. 2016.  
+Chilvers, Ian, and John Glaves-Smith. “Vorticism - Oxford Reference.” A Dictionary of Modern and Contemporary Art (2 ed.) 2009. Web. 8 Jan. 2016.  
+Lewis, Wyndham, ed. “Blast.” Blast: Review of the Great English Vortex 1 (1914). _The Modernist Journals Project_. Web. <http://library.brown.edu/pdfs/1143209523824858.pdf>  
+VortexMaster. “Introduction.” Vorticism.co.uk. N.p., n.d. Web. 6 Jan. 2016. <http://vorticism.co.uk/vpages/introduction/>  
+Yiannakopoulou, Konstantina. “How BLAST Magazine Has Changed Literature.” _Typorn.org_. N.p., 1 Sept. 2014. Web. 6 Jan. 2016. <http://vorticism.co.uk/vpages/introduction/>  
 
 ##_Shintinchaisa_(新陳代謝), or Metabolism (1960-1970s)
 
@@ -73,7 +73,7 @@ Major Proponents:
 * In response to a fear of totalitarian regimes (both that fell/were emerging): emphasized flexibility, organic growth, modularity over/against political rigidity and restraint
 ..* Is anything ever really "organic" rather than socially determined? Significance of modularity?
 ..* as part of "organic growth", old parts/capsules were supposed to be replaced by new ones
-..* in response to (Western) criticism of disposability, ? emphasizes "replacement" or regeneration common in Eastern philosophies (31-2)
+..* in response to (Western) criticism of disposability, Kurokawa emphasizes "replacement" or regeneration common in Eastern philosophies (31-2)
 * Is spiritual, draws upon (Shinto?) Buddhist ideas of impermanence, regeneration
 ..* as a (materially-speaking) "new" Japan built over top of the old one while essentially keeping the same spirit
 ..* emphasis on interconnectedness
@@ -93,9 +93,10 @@ Major Proponents:
 ..* as "cyborg architecture" or hybrid of human/machine(?): the machine (capsule) and life rely on each other (25)
 
 **Sources/Further Reading**
-Goldhagen, Sarah Williams, and Réjean Legault, eds. _Anxious Modernisms: Experimentation in Postwar Architectural Culture_. Cambridge, Mass.: MIT Press, 2000. Print.
-Kurokawa, Kishō. _Metabolism in Architecture_. London: Studio Vista, 1977. Print.
-“Metabolism (architecture).” Wikipedia, the free encyclopedia 1 Jan. 2016. Wikipedia. Web. 7 Jan. 2016.
+Goldhagen, Sarah Williams, and Réjean Legault, eds. _Anxious Modernisms: Experimentation in Postwar Architectural Culture_. Cambridge, Mass.: MIT Press, 2000. Print.  
+Jencks, Charles. Introduction. _Metabolism in Architecture_.  
+Kurokawa, Kishō. _Metabolism in Architecture_. London: Studio Vista, 1977. Print.  
+“Metabolism (architecture).” Wikipedia, the free encyclopedia 1 Jan. 2016. Wikipedia. Web. 7 Jan. 2016.  
 
 ##Transhumanism (1957)
 
@@ -120,9 +121,9 @@ Kurokawa, Kishō. _Metabolism in Architecture_. London: Studio Vista, 1977. Prin
 * language of "discovery" and progress
 
 ####Sources/Further Reading
-Hays, Sean A. "Transhumanism." Encyclopedia of Nanoscience and Society. Ed. David H. Guston. Thousand Oaks, CA: SAGE Publications, Inc., 2010. 770-71. SAGE knowledge. Web. 10 Jan. 2016.
-Huxley, Julian. New Bottles for New Wine, Essays. London: Chatto & Windus, 1957. Print.
-“Transhumanism.” Wikipedia, the free encyclopedia 7 Jan. 2016. Wikipedia. Web. 11 Jan. 2016.
+Hays, Sean A. "Transhumanism." Encyclopedia of Nanoscience and Society. Ed. David H. Guston. Thousand Oaks, CA: SAGE Publications, Inc., 2010. 770-71. SAGE knowledge. Web. 10 Jan. 2016.  
+Huxley, Julian. New Bottles for New Wine, Essays. London: Chatto & Windus, 1957. Print.  
+“Transhumanism.” Wikipedia, the free encyclopedia 7 Jan. 2016. Wikipedia. Web. 11 Jan. 2016.  
 
 ##Arts and Crafts Movement (ca. 1880-1910)
 
@@ -188,13 +189,13 @@ Working definition (admittedly fuzzy): the practice of self-directed learning, o
 * Considering _Lifemanship_, which is a parody of self-help books
 
 ####Sources/Further Reading
-“Autodidacticism.” Wikipedia, the free encyclopedia 6 Jan. 2016. Wikipedia. Web. 11 Jan. 2016.
-Dalton, Harlon L. “Horatio Alger.” Racial Healing: Confronting the Fear Between Blacks and Whites. N.p. Web. 9 Jan. 2016.
-Fisher, Pamela, and Roy Fisher. “The ‘Autodidact’, the Pursuit of Subversive Knowledge and the Politics of Change.” Discourse: Studies in the Cultural Politics of Education 28.4 (2007): 515–529. www-tandfonline-com.ezproxy.library.uvic.ca (Atypon). Web.
-Madsen-Brooks, Leslie. “A Synthesis of Expertise and Expectations: Women Museum Scientists, Club Women and Populist Natural Science in the United States, 1890-1950.” Gender & History 25.1 (2013): 27–46. EBSCOhost. Web.
-McGee, Micki. Self-Help, Inc. Makeover Culture in American Life. Oxford ; New York: Oxford University Press, 2005. voyager.library.uvic.ca Library Catalog. Web. 9 Jan. 2016.
-Pomata, Gianna. “Amateurs by Choice: Women and the Pursuit of Independent Scholarship in 20th Century Historical Writing.” Centaurus 55.2 (2013): 196–219. EBSCOhost. Web.
-Radcliffe, Christopher. “Mutual Improvement Societies and the Forging of Working‐class Political Consciousness in Nineteenth‐century England.” International Journal of Lifelong Education 16.2 (1997): 141–155. www-tandfonline-com.ezproxy.library.uvic.ca (Atypon). Web.
-Richard Edwards. “Amateurism and Professionalism in Work and Learning.” Journal of Workplace Learning 26.6/7 (2014): 406–417. emeraldinsight.com (Atypon). Web.
-Rodrick, Anne Baltz. “The Importance of Being an Earnest Improver: Class, Caste, and ‘Self-Help’ in Mid-Victorian England.” Victorian Literature and Culture 29.1 (2001): 39–50. Print.
-Williams, Heather Andrea. Self-Taught: African American Education in Slavery and Freedom. Chapel Hill: University of North Carolina Press, 2009. Print.
+“Autodidacticism.” Wikipedia, the free encyclopedia 6 Jan. 2016. Wikipedia. Web. 11 Jan. 2016.  
+Dalton, Harlon L. “Horatio Alger.” Racial Healing: Confronting the Fear Between Blacks and Whites. N.p. Web. 9 Jan. 2016.  
+Fisher, Pamela, and Roy Fisher. “The ‘Autodidact’, the Pursuit of Subversive Knowledge and the Politics of Change.” Discourse: Studies in the Cultural Politics of Education 28.4 (2007): 515–529. www-tandfonline-com.ezproxy.library.uvic.ca (Atypon). Web.  
+Madsen-Brooks, Leslie. “A Synthesis of Expertise and Expectations: Women Museum Scientists, Club Women and Populist Natural Science in the United States, 1890-1950.” Gender & History 25.1 (2013): 27–46. EBSCOhost. Web.  
+McGee, Micki. Self-Help, Inc. Makeover Culture in American Life. Oxford ; New York: Oxford University Press, 2005. voyager.library.uvic.ca Library Catalog. Web. 9 Jan. 2016.  
+Pomata, Gianna. “Amateurs by Choice: Women and the Pursuit of Independent Scholarship in 20th Century Historical Writing.” Centaurus 55.2 (2013): 196–219. EBSCOhost. Web.  
+Radcliffe, Christopher. “Mutual Improvement Societies and the Forging of Working‐class Political Consciousness in Nineteenth‐century England.” International Journal of Lifelong Education 16.2 (1997): 141–155. www-tandfonline-com.ezproxy.library.uvic.ca (Atypon). Web.  
+Richard Edwards. “Amateurism and Professionalism in Work and Learning.” Journal of Workplace Learning 26.6/7 (2014): 406–417. emeraldinsight.com (Atypon). Web.  
+Rodrick, Anne Baltz. “The Importance of Being an Earnest Improver: Class, Caste, and ‘Self-Help’ in Mid-Victorian England.” Victorian Literature and Culture 29.1 (2001): 39–50. Print.  
+Williams, Heather Andrea. Self-Taught: African American Education in Slavery and Freedom. Chapel Hill: University of North Carolina Press, 2009. Print.  
