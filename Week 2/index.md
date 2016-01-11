@@ -5,7 +5,7 @@
 Manifesto(s?) in [BLAST, Review of the Great English Vortex, Number 1](http://library.brown.edu/pdfs/1143209523824858.pdf), Wyndham Lewis
 
 ####History
-*As a movement, was very short-lived: started in 1914 and did not outlast the war
++ As a movement, was very short-lived: started in 1914 and did not outlast the war
 *Wyndham Lewis (largely credited as the movement's founder, though he did not coin the term(that was Pound)) tried to revive it as "Group X" but that didn't fly
 *Perhaps its violence after the war was off-putting?
 *Supposedly, according to [this](http://vorticism.co.uk/vpages/introduction/), were the first to popularize the magazine-form manifesto
