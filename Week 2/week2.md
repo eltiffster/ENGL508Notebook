@@ -8,6 +8,8 @@ Take notes on your general impressions of at least five -isms. Please attend to 
 
 ##Vorticism (1914-1917ish)
 
+Wyndham Lewis, Ezra Pound, other signatories of the manifesto
+
 ![Blast Magazine Cover July 1915](images/vorticism1.jpg)
 
 Manifesto(s?) in [BLAST, Review of the Great English Vortex, Number 1](http://library.brown.edu/pdfs/1143209523824858.pdf), Wyndham Lewis
@@ -17,14 +19,14 @@ Manifesto(s?) in [BLAST, Review of the Great English Vortex, Number 1](http://li
 * Wyndham Lewis (largely credited as the movement's founder, though he did not coin the term(that was Pound)) tried to revive it as "Group X" but that didn't fly
 * Perhaps its violence after the war was off-putting?
 * Supposedly, according to [this](http://vorticism.co.uk/vpages/introduction/), were the first to popularize the magazine-form manifesto
-* Same source points to democratization of Art as a driving force for its popularity (was it though?)
+* Same source points to democratization of Art as a driving force for its popularity (?)
 * Britain a major industrial power, esp. British Navy (blessed in the manifesto)
 
 ####Politics
 * Sets itself up as a violent break from the past ("BLAST", after all); mentions/disdains/blasts past movements like Aestheticism ("The Britanic Aesthete"(?), "Rousseauism")
 * Violence as somehow purifying or cleansing: language of disease ("sins and infections" (11); a "lump" that bursts (32))
 * Same in the figure of the hairdresser attacking Mother Nature, trimming hair into "_clean_ arched shapes and angular plots" (emphasis mine)
-* In that way, seems to be bringing order to disorder, but also paradoxically the form of the piece is disordered
+  * In that way, seems to be bringing order to disorder, but paradoxically the form of the piece is disordered
 * Trying to be democratizing? For "everyone"; but also for "no man"? Denying/rejecting a specific audience?
 * Is it about inhabiting extreme perspectives or neither? Do the two annihilate each other or something?
 * Gender politics: kind of stereotypically "macho" masculine, "blasts" things for being "effeminate" and weak, "disease of femininity" (15)
@@ -36,9 +38,8 @@ Manifesto(s?) in [BLAST, Review of the Great English Vortex, Number 1](http://li
 ####Aesthetics
 * Typeface: [Grotesque No. 9](http://www.typorn.org/article/how-blast-magazine-has-changed-literature) by Blake Stephenson (British type designer)
 * Significance of an ordered/hierarchical list?
-* What to make of the symbol? Is it supposed to be a top? Upside-down top?
-* blockish, square type suggests brute force, stability
-* Is the straightness of it a response to the diagonal lines of Futurism?
+* What to make of the symbol?
+* blockish, square type suggests force, stability
 * In some ways, seems very orderly (hierarchical, ordered list, straight forceful lines); but in others, seems chaotic (e.g. random lists of images/symbols/institutions, the 3 on one page isn't centered like the rest)
 
 ####Sources/Further Reading
@@ -50,12 +51,14 @@ Yiannakopoulou, Konstantina. “How BLAST Magazine Has Changed Literature.” _T
 
 ##_Shintinchaisa_(新陳代謝), or Metabolism (1960-1970s)
 
+Kiyonori Kikutake, Kisho Kurokawa and Fumihiko Maki
+
 ![Marine City](images/metabolism1.jpg)
 
 * _Shintinchaisa_(新陳代謝) means "metabolism" in a scientific/biological sense, but can also mean "renewal or regeneration...closely related to the Buddhist concepts of transmogrification and reincarnation" (Wendelken 287)
 * Architectural movement, although Metabolism's proponents did write extensively on it
 * Key Text would be _Metabolism 1960—Proposals for a New Urbanism_ (Can't find an original copy, only excerpts in various secondary sources)
-* Prepared for the 1960 Tokyo World Design Conference
+  * Prepared for the 1960 Tokyo World Design Conference
 
 ####History
 * Post-WWII era: reaction to devastation after the war (fire-bombing in Tokyo, twin bombs over Hiroshima and Nagasake) and the constant threat of nuclear warfare
@@ -66,11 +69,11 @@ Yiannakopoulou, Konstantina. “How BLAST Magazine Has Changed Literature.” _T
 ![Tokyo after bombing](images/metabolism4.jpg)
 
 ####Politics
-* As a nationalist project: wanting to assert tradition (somewhat) independent of foreign (esp. American) influence, "an -ism that rivalled Western avant-garde" (??)
+* As a nationalist project: wanting to assert tradition (somewhat) independent of foreign (esp. American) influence, "an -ism that rivalled Western avant-garde"
 * Metabolists may also have been anxious about the survival of their culture, both in reference to the war's destruction as well as foreign influences on reconstruction
 * In response to a fear of totalitarian regimes (both that fell/were emerging): emphasized flexibility, organic growth, modularity over/against political rigidity and restraint
   * Is anything ever really "organic" rather than socially determined? Significance of modularity?
-  * as part of "organic growth", old parts/capsules were supposed to be replaced by new ones
+  * as part of "organic growth", old parts/capsules were supposed to be replaced by new ones -- what is role of waste and obsolescence?
   * in response to (Western) criticism of disposability, Kurokawa emphasizes "replacement" or regeneration common in Eastern philosophies (31-2)
 * Is spiritual, draws upon (Shinto?) Buddhist ideas of impermanence, regeneration
   * as a (materially-speaking) "new" Japan built over top of the old one while essentially keeping the same spirit
@@ -98,6 +101,8 @@ Kurokawa, Kishō. _Metabolism in Architecture_. London: Studio Vista, 1977. Prin
 
 ##Transhumanism (1957)
 
+J.B.S. Haldane, Julian Huxley, I.J. Good, FM-2030
+
 ![Transhumanism](images/transhumanism1.png)
 
 ["Transhumanism", Julian Huxley (from _New Bottles for New Wine_), 1957](http://www.transhumanism.org/index.php/WTA/more/huxley)
@@ -107,6 +112,9 @@ Kurokawa, Kishō. _Metabolism in Architecture_. London: Studio Vista, 1977. Prin
 * [Discovery of DNA's molecular structure](https://en.wikipedia.org/wiki/DNA) by Watson and Crick in 1953, becomes conceivable that we could, eventually, alter humans on a molecular level
 
 ####Politics
+* Belief in transcending normal human condition by altering/enhancing intellectual, physical and psychological capabilities
+  * linked to ideas of genetic enhancement, artificial intelligence, the technological singularity
+  * transitional to posthumanity
 * Technological determinism: technology does not exist in a vacuum outside of social determination, nor will it automatically result in better quality of life for all of humanity
 * Appeal to evolution, biology smacks of eugenics
 * Always a "he"
@@ -124,6 +132,8 @@ Huxley, Julian. New Bottles for New Wine, Essays. London: Chatto & Windus, 1957.
 “Transhumanism.” Wikipedia, the free encyclopedia 7 Jan. 2016. Wikipedia. Web. 11 Jan. 2016.  
 
 ##Arts and Crafts Movement (ca. 1880-1910)
+
+William Morris, Augustus Pugin, John Ruskin
 
 ![Arts and Crafts wallpaper](images/artsAndCrafts2.jpg)
 
@@ -157,7 +167,7 @@ Callen, Anthea. “Sexual Division of Labor in the Arts and Crafts Movement.” 
 Coomaraswamy, Ananda Kentish, and Rama P. Coomaraswamy. The Essential Ananda K. Coomaraswamy. Bloomington, IN: World Wisdom, 2004. Print. The Perennial Philosophy Series.
 Thomas, Zoë. “At Home with the Women’s Guild of Arts: Gender and Professional Identity in London Studios, c.1880–1925.” Women’s History Review 24.6 (2015): 938–964. Web.
 
-##Autodidact(ic)ism, or Self-Help (from forever ago until now)
+##Autodidact(ic)ism, or Self-Help (undecided)
 
 ![Vernon Lee](images/autodidactism1.jpg)
 ![Sophie Germain](images/autodidactism2.jpeg)
@@ -166,23 +176,22 @@ Thomas, Zoë. “At Home with the Women’s Guild of Arts: Gender and Profession
 Working definition (admittedly fuzzy): the practice of self-directed learning, or teaching yourself (usually a skill) outside of formal institutions
 
 ####History
-* has been happening even since ancient times, often with an explicitly spiritual or theological purpose and extends beyond Western tradition, e.g. Islamic philosophy in the Middle East (see Ben-Zaken)
+* extends beyond Western tradition (Enlightenment) Islamic philosophy in the Middle East (see Ben-Zaken)
 * 19th-century: emphasis on self-improvement or refining "taste" (a la Smiles' [_Self-Help_](https://en.wikipedia.org/wiki/Samuel_Smiles#Self-Help) or _Great Expectations_) the middle-class, mutual improvement societies, women scholars, education & slavery
 * Early to mid 20th-century: "rags to riches," the Horatio Alger myth
 * In more modern times: explosion in mid-century of self-help books, glorification of the "self-made" innovator or entrepeneur (middle-class white male, think Bill Gates or Steve Jobs), "From Zero to Maker"
 
 ####Politics
 * On the one hand, seems to be explicitly political or subversive if you take the long history of class struggle, women and people of colour autodidacts who circumvent formal structures of education made to exclude them
-  * Can even feed back into said professional structures, as in Ladies Learning to Code
 * On the other hand, seems to reinforce institutional privileges that already exist:
-  * relies heavily on leisure time for "added labour" (see _Self-Help Inc._), acces to resources/knowledge to "teach yourself," environments that encourage and foster learning
+  * relies heavily on leisure time for "added labour" (see _Self-Help Inc._), access to resources/knowledge to "teach yourself," environments that encourage and foster learning
   * at times, can be rather individualistic, essentialist, rely on narratives of the singular genius
   * How subversive or radical is it? Still succeeding within the same capitalist system or do you change the system from within?
 
 ####Aesthetics
 * Not too sure about this one, especially since I haven't chosen a text yet
 * For most self-help texts, common move is to reference a parable and then extract/expound upon some nugget of wisdom
-* explicitly didactic (expected to be), often giving instructions in imperative form and repeating them throughout, a "catchy" phrase
+* explicitly didactic (expected to be), often giving instructions in the imperative and repeating them throughout, a "catchy" phrase
   * would assume a certain kind of audience? Class, gender, race, etc.?
 * Considering _Lifemanship_, which is a parody of self-help books
 
