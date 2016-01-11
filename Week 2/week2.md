@@ -1,3 +1,7 @@
+#Week 2: Survey Some -Isms
+
+*Notebook Prompt*: Between the 1870s and 1970s, what are some notable -isms operating across art, culture, and politics? How were these -isms designed?
+
 ##Vorticism (1914-1917ish)
 
 ![Blast Magazine Cover July 1915](images/vorticism1.jpg)
