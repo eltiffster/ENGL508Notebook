@@ -1,0 +1,42 @@
+
+.slides {
+  width: 100%;
+}
+
+section {
+  padding: 0.5em 0.5em !important;
+}
+
+section div.points p {
+  font-size: 0.8em;
+  margin: 0.08em !important;
+}
+
+section::after {
+  content: "";
+  background-color: #000;
+  opacity: 0.8;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1; 
+}
+
+section.blank::after {
+	content:none;
+}
+
+.title {
+	color: #E78852 !important;
+}
+
+/* Gradient transparent - color - transparent */
+
+hr {
+	margin: 0.5em;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0.6), rgba(0, 0, 0, 0));
+}
