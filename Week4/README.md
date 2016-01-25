@@ -1,6 +1,6 @@
 #Week 4: Image It
 
-###Prompt: 
+###Prompt
 
 Digitize or acquire your text as a series of page images (TIFF, JPG, PNG). Interpret the text as an image on a screen.
 
