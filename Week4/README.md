@@ -6,6 +6,12 @@ Digitize or acquire your text as a series of page images (TIFF, JPG, PNG). Inter
 
 See Jentery's notes on ["Approaching Text as Images"](http://jentery.github.io/508/notes) for more detailed instructions and prompts.
 
+###Image
+
+<img src="images/ImageIt.jpg" width="100%" />
+
+Image of [How to Win Friends and Influence People](http://www.amazon.ca/How-Win-Friends-Influence-People/dp/0671027034/ref=sr_1_1?ie=UTF8&qid=1453765548&sr=8-1&keywords=how+to+win+friends+and+influence+people) by Dale Carnegie.
+
 ###Arrangement and Form
 * Fragmentation: blocks of prose, then a principle, then a whole list of principles that are all stylized differently
 * Gutter created by the codex format almost acts as the centre if it was an image (normally, as text we would be inclined to ignore it)
