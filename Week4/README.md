@@ -27,7 +27,7 @@ See Jentery's notes on ["Approaching Text as Images"](http://jentery.github.io/5
 
 <img src="images/StainedGlass.jpg" width="33%" />
 <img src="images/MosesTablet.jpg" width="33%" />
-<img src="SixthCommandment.jpg" width="33%" />
+<img src="images/SixthCommandment.jpg" width="33%" />
 
 * Legibility vs. illegibility: the text is almost entirely legible, but maybe less so towards the gutter where the text is getting sucked in
 * as a similar aesthetic (not deliberate) to zines/Fluxxus kits: fuzzy, photocopied look when scanned
