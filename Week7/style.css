@@ -1,0 +1,38 @@
+hr.dotted {
+	background-color: #fff;
+	border-top: 2px dotted;
+}
+
+#principle {
+	text-align: center;
+	font-weight: bold;
+}
+
+#principle h4 {
+	font-weight: bold;
+}
+
+body {
+	padding-top: 70px; 
+	font-size: 2em;
+	font-family: 'Lusitana', garamond, serif;
+}
+
+.block-indent {
+	padding-left: 1em;
+}
+
+.text-indent {
+	text-indent: 1em;
+}
+
+#footnote-line {
+	width: 10%;
+    border-top: 1px solid #333;
+    position: relative;
+    right: 45%;
+}
+
+.navbar {
+	font-family: 'Source Sans Pro', sans-serif;
+}
