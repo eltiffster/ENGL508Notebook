@@ -1,0 +1,45 @@
+body {
+font-family: 'Roboto Mono';
+}
+
+p {
+	margin-top: 2em;
+	font-size: 1.2em;
+}
+
+#IAm-response, #IDesire-response, #APrompt-response {
+	display: none;
+}
+
+.haserror {
+	font-weight: bold !important;
+}
+
+.textarea-group, #EmailEnding, #UploadSoul {
+	margin-top: 2em;
+}
+
+#UploadSoul {
+	font-size: 1.2em;
+}
+
+.DearCarnegie {
+	margin-top: 2em;
+	font-size: 1.2em;
+	font-style: italic;
+}
+
+.DearCarnegie label {
+	font-style: italic;
+	font-weight: normal;
+}
+
+.checkbox {
+	font-size: 1.2em;
+	text-indent: 1.2em;
+}
+
+.select-inline {
+	width: 30%;
+	display: inline-block;
+}
