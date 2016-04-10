@@ -27,7 +27,7 @@ I am particularly interested in this kind of "glitch" because, as [the Google Bo
 
 For this method, the glitch occurs in the gap between the machine-readable and human-readable. Here, I am thinking about Menkman's definition of a glitch as
 
->>"a (actual and/or simulated) break from an expected or conventional flow of information or meaning within (digital) communcation systems that results in a perceived accident or error. A glitch occurs on the occasion where there is an absence of (expected) functionality, whether understood in a technical or social sense. Therefore, a glitch, as I see it, is not always strictly a result of a technical malfunction.""
+>"a (actual and/or simulated) break from an expected or conventional flow of information or meaning within (digital) communcation systems that results in a perceived accident or error. A glitch occurs on the occasion where there is an absence of (expected) functionality, whether understood in a technical or social sense. Therefore, a glitch, as I see it, is not always strictly a result of a technical malfunction.""
 
 In this prototype, the "glitch" isn't necessarily technological--or at least, not in a strict sense. Rather, it is, similar to what Menkman describes: an error in communication. The algorithm can still "work" by providing an output. But as syntactically and semantically meaningful sentences, the output is unsurprisingly garbled. Moreover, the Google text box requires everything in it to be plaintext so any meaning that would, in the print copy, be encoded in the formatting (e.g. margins, italics, contrasting fonts) gets lost.
 
