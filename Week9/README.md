@@ -24,7 +24,7 @@ Another list. The issues/goals/intents I'm thinking about when making this proto
 
 The form itself could be considered a kind of letter (or email) to Carnegie. I excerpted parts of this chapter and kept them almost entirely the same except for what I redacted/blanked out for the sake of the form. In doing so, I wanted to retain Carnegie's "voice" or "personality" that has become such a major selling point for the Carnegie estate. Since the whole list thing is becoming a theme in this notebook entry -- and because I can't discuss ALL the blanks -- I'll go through 3 of the major things I did or wanted to do with this form.
 
-<img src="pronouns.png">
+<img src="results/1.png">
 
 The first things I blanked were the "He" pronouns in the chapter title, which I replaced with a text field inviting people to fill in their preferred pronoun. Looking (hunting?) for blanks in this exercise also prompted me to think about the ways in which the "neutral" pronoun of "He," in this sense where Carnegie is retelling a proverb, is a blank or situation that the reader is supposed to place themselves into. It's fitting for self-help/Carnegie, really -- a supposedly neutral, democratic space that anyone can fill and yet is actually skewed towards a certain segment of the population. Putting the blank where I did allows for more gender identities and choice than Carnegie ever offers, especially as an arbitrary text field instead of a dropdown or button list which would restrict the number of choices. Here I was thinking of the (lack of) options for "gender" on forms I typically fill out as well as [restroom genderator](https://twitter.com/restroomgender).
 
