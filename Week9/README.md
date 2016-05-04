@@ -16,7 +16,7 @@ After reading Gitelman, I would say the most obvious kind of blanks in *How to W
 Another list. The issues/goals/intents I'm thinking about when making this prototype:
 
   1. As an intent, to "write back" or speculate an alternative to Carnegie. To allow options that Carnegie never gave his audience through some measure of interactivity. Here, would it be a forgery or a counterfactual (see Jentery's notes for defs of types of prototypes)? In this case, this prototype could maybe even be a scenario or a parody.
-  2. The problem of empathy, which Carnegie is trying to teach in the chapter I've chosen (Chapter 3: "He Who Can Do This Has the Whole World With Him. He Who Cannot Walks a Lonely Way"). Can we ever truly empathize with another person whose embodied experiences are different from ours? Should we (see [here](http://auntiepixelante.com/empathygame/) and [here](http://www.digitalrhetoriccollaborative.org/2016/03/14/remaking-optophones-an-exercise-in-maintenance-studies/)? Who is Carnegie trying to empathize with and why?
+  2. The problem of empathy, which Carnegie is trying to teach in the chapter I've chosen (Chapter 3: "He Who Can Do This Has the Whole World With Him. He Who Cannot Walks a Lonely Way"). Can we ever truly empathize with another person whose embodied experiences are different from ours? Should we (see [here](http://auntiepixelante.com/empathygame/) and [here](http://www.digitalrhetoriccollaborative.org/2016/03/14/remaking-optophones-an-exercise-in-maintenance-studies/))? Who is Carnegie trying to empathize with and why?
 
 ####The Form Itself
 
@@ -24,16 +24,16 @@ Another list. The issues/goals/intents I'm thinking about when making this proto
 
 The form itself could be considered a kind of letter (or email) to Carnegie. I excerpted parts of this chapter and kept them almost entirely the same except for what I redacted/blanked out for the sake of the form. In doing so, I wanted to retain Carnegie's "voice" or "personality" that has become such a major selling point for the Carnegie estate. Since the whole list thing is becoming a theme in this notebook entry -- and because I can't discuss ALL the blanks -- I'll go through 3 of the major things I did or wanted to do with this form.
 
-<img src="pronouns.png">
+<img src="1.png">
 
 The first things I blanked were the "He" pronouns in the chapter title, which I replaced with a text field inviting people to fill in their preferred pronoun. Looking (hunting?) for blanks in this exercise also prompted me to think about the ways in which the "neutral" pronoun of "He," in this sense where Carnegie is retelling a proverb, is a blank or situation that the reader is supposed to place themselves into. It's fitting for self-help/Carnegie, really -- a supposedly neutral, democratic space that anyone can fill and yet is actually skewed towards a certain segment of the population. Putting the blank where I did allows for more gender identities and choice than Carnegie ever offers, especially as an arbitrary text field instead of a dropdown or button list which would restrict the number of choices. Here I was thinking of the (lack of) options for "gender" on forms I typically fill out as well as [restroom genderator](https://twitter.com/restroomgender).
 
 <img src="results/2.png" width="50%">
 <img src="results/3.png" width="50%">
 
-But if readers have more choice (I know we discussed how the idea of more interactivity = more agency is vexed in seminar but bear with me), then Carnegie also has a chance to respond to -- or, maybe more accurately, berate -- the reader. Even when the form is something like a conversation, it's interesting to think about who might get the last word in that case. The people I asked to fill out the form stopped typing more or less as soon as they saw Carnegie's "response" (one person laughed and said that I was now messing with people and this is technically true) but I can imagine someone stubbornly typing out what they were going to say. Or maybe even berating Carnegie back?
+But if readers have more choice ( discussed how the idea of more interactivity = more agency is vexed in seminar but bear with me), then Carnegie also has a chance to respond to -- or, maybe more accurately, berate -- the reader. Even when the form is something like a conversation, it's interesting to think about who might get the last word in that case. The people I asked to fill out the form stopped typing more or less as soon as they saw Carnegie's "response" (one person laughed and said that I was now messing with people and this is technically true) but I can imagine someone stubbornly typing out what they were going to say. Or maybe even berating Carnegie back?
 
-<img src="upload.png">
+<img src="5.png">
 
 I'll admit that this was also kind of a joke -- a concession to parody more than a counterfactual. For this one, I wanted to poke a bit more at the idea of the persona and/or defining yourself as data (metadata in Gitelman's terms) and "pouring yourself in" (also Gitelman): if you could only describe yourself in one file, and one file only, what would you choose? What do you project in representing yourself? What is left out? What is legible to (or perhaps misread by) others?
 
